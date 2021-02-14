@@ -1,7 +1,1 @@
-function hello world!() {
-	// TODO: change this string so that your program prints "Hello world!" 
-	// when you hit the replit run button
-	return "Hello world!";
-}
- 
-module.exports = hello world!;
+console.log("Hello World!)
