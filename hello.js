@@ -1,7 +1,6 @@
-function ShowMessage(firstName, lastName) {
-    alert("Hello " + firstName + " " + lastName);
+function hello() {
+	// TODO: change this string so that your program prints "Hello world!" 
+	// when you hit the replit run button
+	return "Hello";
+	return "Hello";
 }
-
-ShowMessage("Steve", "Jobs", "Mr."); // display Hello Steve Jobs
-ShowMessage("Bill"); // display Hello Bill undefined
-ShowMessage(); // display Hello undefined undefined
